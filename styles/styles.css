@@ -8157,3 +8157,29 @@ undefinedundefined.owl-height {
 }
 
 }
+
+footer{
+    background-color:  #7b99ae; 
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer h3{
+    color: #2f3a42;
+    text-decoration: none;
+}
+footer a{
+    color:rgb(46, 13, 13);
+    text-decoration: none;
+}
+footer a:hover{
+    color: red;
+}
+.social img{
+    width: 80px;
+    background-color:#7b99ae ;
+    padding-top: 15px;
+}
